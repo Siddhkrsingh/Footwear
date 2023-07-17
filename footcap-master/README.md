@@ -1,1 +1,1 @@
-download at open it in vs code
+download and open it in vs code
